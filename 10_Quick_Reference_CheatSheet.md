@@ -1,4 +1,5 @@
-# 10 – Quick Reference / CheatSheet
+
+# 10 – Quick Reference / CheatSheet (FRISSÍTETT LÉ‑vel)
 
 ## Próba
 ```
@@ -14,7 +15,6 @@ VÉ = 10 + Ügy + páncélbónusz (+0/+1/+2)
 Sebzés (fegyver-fok): 1 / 2 / 3  (+1 ha Erős siker erre megy)
 Soak (páncél): +1 / +2 / +3   →  Sebzésből levonódik, min. 0 megy át
 ```
-Feketeacél: +1 Hatás; kritikus hibán Repedés.
 
 ## Grit / Seb / Árnyék
 ```
@@ -26,27 +26,12 @@ Overflow: minden +3 átmenő sebzés +1 fok súlyosbodás
 Küszöbök: 3/6/9 → zavarok; Csökkentés: gyónás/katarzis/engesztelés
 ```
 
-## Rítusok
+## LÉ – Hard Magic rövid
 ```
-2d10 + (Elme/Lélek) + Rítusok  vs CÉ 12–20
-Sietség = +1 Árnyék.  Csatornák/fókusz: +Hatás / Előny.
-```
-
-## Hard Magic képlet (opcionális modul)
-```
-LÉ‑költség = μ × M × R × τ × C × Eᶠ / (W × T × F)
-Túlhúzás: 5 LÉ → Árnyék +1 és ideiglenes −1 Lélek
+Alap képlet: LÉ = μ × M × R × τ × C × Eᶠ / (W × T × F)
+Rezonancia: kedvenc iskolád μ × 0,8; ellentétes μ × 1,2
+Regeneráció: ~6 LÉ/óra nyugalomban
+Túlhúzás: LÉ‑max +25%-ig → minden +5 LÉ túlhúzás: Árnyék +1 és ideiglenes −1 Lélek 1 napra
+Csatornák: Mudra +1 Hatás • Mantra +1 • Rúna +2 • Katalizátor +2…+5
 ```
 
-## Fegyver/páncél táblák
-| Fegyver | Fok |
-|---|---:|
-| tőr/ostor | 1 |
-| kard/bárd/lándzsa/íj | 2 |
-| kétkezes/ számszeríj | 3 |
-
-| Páncél | VÉ | Soak |
-|---|---:|---:|
-| könnyű | +0 | +1 |
-| közepes | +1 | +2 |
-| nehéz | +2 | +3 |
